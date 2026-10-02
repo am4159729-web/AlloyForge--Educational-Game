@@ -1,3 +1,5 @@
+<img width="1073" height="737" alt="Screenshot 2026-10-02 at 12 56 30 PM" src="https://github.com/user-attachments/assets/f0bf43a0-74ee-4841-b33f-ef05124064d9" />
+<img width="1077" height="749" alt="Screenshot 2026-10-02 at 12 56 45 PM" src="https://github.com/user-attachments/assets/e74006b7-b99f-4dc3-976a-337d76850a42" />
 # AlloyForge--Educational-Game(V1.0.0)
 A standalone Python and Pygame metallurgy simulation game. Mix elemental metals, calculate density and yield strength in real time, time hammer strikes on a heat-sensitive anvil bar, and quench alloys to fulfill client contracts.
 ## Key Features
