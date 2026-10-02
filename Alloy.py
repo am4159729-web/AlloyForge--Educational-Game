@@ -8,12 +8,12 @@ from pathlib import Path
 
 import pygame
 
-
-WIDTH, HEIGHT = 1100, 750
-FPS = 60
-MAX_PARTICLES = 300
-MAX_FLOATING_TEXTS = 40
-BELLOWS_HEAT_DURATION = (5.0, 6.0, 7.0, 8.0)
+#  Window & Performance Settings 
+WIDTH, HEIGHT = 1100, 750 # Game screen dimensions in pixels
+FPS = 60 # Target frame rate for physics/graphics updates
+MAX_PARTICLES = 300 # Caps visual sparks to maintain performance
+MAX_FLOATING_TEXTS = 40  # Maximum dynamic text notifications allowed on screen
+BELLOWS_HEAT_DURATION = (5.0, 6.0, 7.0, 8.0) # Furnace cooling timers per upgrade level
 VERSION = "1.0.0-rc1"
 SAVE_VERSION = 1
 SAVE_FILE = Path.home() / ".alloy_forge_save.json"
